@@ -1,5 +1,7 @@
 # 🟨 Squares - macOS scripts for window management
 
+![Squares](images/Screenshot%202023-03-27%20at%206.52.24%20PM.png)
+
 ## What is it?
 
 Squares 🟨 is a bunch of very simple AppleScripts for window positioning and resizing.
