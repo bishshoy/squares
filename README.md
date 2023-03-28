@@ -1,6 +1,6 @@
 # 🟨 Squares - macOS scripts for window management
 
-![Squares](images/Screenshot%202023-03-27%20at%206.52.24%20PM.png)
+![Squares](images/Screenshot.png)
 
 ## What is it?
 
@@ -38,6 +38,7 @@ for the script to run. I have not found a way to make the scripts run faster tha
 If you know how to do that, please let me know.
 
 Both the Automator and the Shortcuts ways are discussed here:
+
 https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote
 
 I found using the Shortcuts app to be a bit easier.
