@@ -1,5 +1,5 @@
-set desiredPosition to {0.166, 0.0}
-set desiredSize to {0.667, 1.0}
+set desiredPosition to {0.2, 0.0}
+set desiredSize to {0.6, 1.0}
 
 tell application "Finder" to set screenSize to bounds of window of desktop
 
