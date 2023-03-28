@@ -25,7 +25,7 @@ anyone to understand and verify that they do not do anything malicious.
 4. Turn off Show Computer scripts.
 5. A new icon will appear in the top-right menu bar. Click on it and select Open Scripts
    Folder > Open User Scripts Folder.
-6. Copy the scripts from the unzipped folder to the Scripts folder that just opened.
+6. Copy the .scpt files from the unzipped folder to the Scripts folder that just opened.
 7. Close the Scripts folder and the Script Editor app.
 8. You can now use the scripts by clicking on the icon in the top-right menu bar and
    selecting the script you want to run.
