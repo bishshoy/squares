@@ -11,7 +11,7 @@ set windowWidth to item 1 of windowSize
 set windowHeight to item 2 of windowSize
 
 set finalPositionX to (screenWidth - windowWidth) / 2
-set finalPositionY to (screenHeight - windowHeight) / 2 - dockHeight
+set finalPositionY to (screenHeight - windowHeight) / 2 - dockHeight / 2
 set finalPosition to {finalPositionX, finalPositionY}
 
 set finalSizeX to windowWidth
